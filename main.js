@@ -52,7 +52,6 @@ checkValidateForm = (enterName, enterLink) => {
 
 getLinkfromStorage = () => {
    const saveLinks = JSON.parse(localStorage.getItem("saveLinks"));
-   console.log(saveLinks);
 
    const showAddedLinks = document.querySelector(".showAddedLinks");
 
