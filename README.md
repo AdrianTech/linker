@@ -3,6 +3,7 @@
  - SCSS
  - Vanilla.js
  - Local Storage
+ - Mobile-first
  
 #### Description
 This feature saving pasted links in local storage. To see final project, click on the link below.
